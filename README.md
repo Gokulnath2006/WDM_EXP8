@@ -93,7 +93,7 @@ else:
 ```
 
 ### Output:
-<img width="1000" height="730" alt="image" src="https://github.com/user-attachments/assets/14f31bb7-b41c-4035-8e5a-0374adc6f333" />
+
 
 ### Result:
 Thus,Web Scraping On E-commerce platform using BeautifulSoup is done .
