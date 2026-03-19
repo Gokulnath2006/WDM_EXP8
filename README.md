@@ -94,6 +94,8 @@ else:
 
 ### Output:
 
+<img width="1031" height="883" alt="Screenshot 2026-03-14 131048" src="https://github.com/user-attachments/assets/8ce1ea1d-b49f-4d13-87f7-4f48d3e69208" />
+
 
 ### Result:
 Thus,Web Scraping On E-commerce platform using BeautifulSoup is done .
